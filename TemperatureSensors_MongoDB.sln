@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureSensors_MongoDB", "TemperatureSensors_MongoDB.csproj", "{F7924824-7F81-4D26-9714-8BEA201126C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7924824-7F81-4D26-9714-8BEA201126C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7924824-7F81-4D26-9714-8BEA201126C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7924824-7F81-4D26-9714-8BEA201126C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7924824-7F81-4D26-9714-8BEA201126C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FE13104-5B8A-4DD7-AE5A-E01ED19A7A4E}
+	EndGlobalSection
+EndGlobal
